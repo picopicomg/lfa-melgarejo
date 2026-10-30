@@ -1,0 +1,7 @@
+# Archivos de imprenta del libro (no se necesitan para la página)
+libros-y-colores/
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
+.DS_Store
